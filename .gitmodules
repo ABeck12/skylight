@@ -1,0 +1,6 @@
+[submodule "kicad-libraries/keyswitches"]
+	path = kicad-libraries/keyswitches
+	url = https://github.com/daprice/keyswitches.pretty.git
+[submodule "kicad-libraries/nice-nano-kicad"]
+	path = kicad-libraries/nice-nano-kicad
+	url = https://github.com/bstiq/nice-nano-kicad.git

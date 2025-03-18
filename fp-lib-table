@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nice_nano_v2")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/my_nice_nano")(options "")(descr ""))
+  (lib (name "choc_switch")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/keyswitches")(options "")(descr ""))
+  (lib (name "power_switch")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/power_switch")(options "")(descr ""))
+)
